@@ -647,7 +647,7 @@ main{
     }
 
     #project .project-row1 .imgss-cols .img{
-        width: 50%;
+        width: 30%;
     }
     #project .project-row1 .project-cols h2{
         font-weight: 500;
@@ -674,7 +674,7 @@ main{
     }
 
     #project .project-row2 .imgss-cols .img{
-        width: 50%;
+        width: 30%;
         text-align: center;
     }
     #project .project-row2 .project-cols h2{
